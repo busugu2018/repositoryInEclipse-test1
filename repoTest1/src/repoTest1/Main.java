@@ -17,9 +17,11 @@ public class Main {
 		System.out.println("9- Right click on project, and look for team, share project, enter the repo, it will populate, click finish;");
 		System.out.println("10- Start working on it;");
 		System.out.println("11- Cliock on team again and you'll see, everything: status, commit, push, etc;");
-		System.out.println();
 		
-
+		
+		int a = 2;
+		int b = 3;
+		System.out.println(a+b);
 	}
 
 }
